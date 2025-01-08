@@ -29,8 +29,10 @@ Open the provided Power BI file (visuals/dashboard.pbix).
 Connect it to the Snowflake database to load live data.
 
 # Dashboard Overview
-Revenue by Genre: A bar chart showing the total revenue for each genre.
-Gross Revenue Over Time: 
+- Revenue by Genre
+- Rating by Genre
+- Rating by Certificate (PG,G,R,etc)
+- Revenue by Certificate
 
 # Future Developments
 Add real-time data refresh using Snowflake tasks and Power BI Service.
